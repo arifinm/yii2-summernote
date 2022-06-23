@@ -1,5 +1,5 @@
 {
-    "name": "marqu3s/yii2-summernote",
+    "name": "arifinm/yii2-summernote",
     "description": "Yii2 Summernote widget. Super simple WYSIWYG editor on Bootstrap",
     "type": "yii2-extension",
     "keywords": [
@@ -8,8 +8,8 @@
         "widget",
         "wysiwyg"
     ],
-    "homepage": "https://github.com/marqu3s/yii2-summernote",
-    "time": "2016-01-15",
+    "homepage": "https://github.com/arifinm/yii2-summernote",
+    "time": "2022-06-24",
     "license": "MIT",
     "authors": [
         {
@@ -26,16 +26,16 @@
     ],
     "support": {
         "issues": "https://github.com/zelenin/yii2-summernote-widget/issues",
-        "source": "https://github.com/marqu3s/yii2-summernote"
+        "source": "https://github.com/arifinm/yii2-summernote"
     },
     "require": {
-        "yiisoft/yii2": "~2",
+        "yiisoft/yii2": "^2.0.20",
         "bower-asset/codemirror": "@stable",
-        "bower-asset/summernote": "0.*"
+        "bower-asset/summernote": "^0.8.20"
     },
     "autoload": {
         "psr-4": {
-            "marqu3s\\summernote\\": ""
+            "arifinm\\summernote\\": "src"
         }
     },
     "extra": {
