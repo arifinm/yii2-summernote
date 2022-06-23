@@ -1,6 +1,6 @@
 <?php
 
-namespace marqu3s\summernote;
+namespace arifinm\summernote;
 
 use yii\web\AssetBundle;
 
