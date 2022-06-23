@@ -10,11 +10,11 @@ The preferred way to install this extension is through [Composer](http://getcomp
 
 Either run
 
-	php composer.phar require arifinm/yii2-summernote "*"
+	php composer.phar require arifinm/yii2-summernote "dev-master"
 
 or add
 
-	"arifinm/yii2-summernote": "*"
+	"arifinm/yii2-summernote": "dev-master"
 
 to the require section of your composer.json
 
